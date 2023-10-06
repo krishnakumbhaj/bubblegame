@@ -1,5 +1,6 @@
 
 
+alert("Match the bubble number with 'Hit'" )
 
 var score=0 
 var hit
